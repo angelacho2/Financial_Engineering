@@ -1,6 +1,6 @@
 # Financial_Engineering
 
-## Basic Information
+## About Me
 
 Han-Hui Chou 周涵卉
 
